@@ -4,7 +4,7 @@ const projects = [
         projectTitle: "Personal Website",
         projectImg: "./images/Screenshot 2022-04-27 174236.png",
         description: "This website is a personal portfolio website. It showcases my skills and accomplishments. It lists my technical skills and areas of expertise.",
-        githubrepo: "https://github.com/KomilJuraev/personal-web-app/tree/main",
+        githubrepo: "https://github.com/KomilJuraev/my-portfolio",
         websiteUrl: "#header"
     },
     {
