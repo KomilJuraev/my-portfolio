@@ -22,7 +22,16 @@ const projects = [
         description: "A people counter app is a software application that allows users to keep track of the number of people entering or exiting the location.",
         githubrepo: "https://github.com/KomilJuraev/people-counter-web-app",
         websiteUrl: "https://komiljuraev.github.io/people-counter-web-app/"
+    },
+    {
+        id: 4,
+        projectTitle: "Black Jack App",
+        projectImg: "./images/blackJack.png",
+        description: "A blackjack app is a digital version of the popular casino card game that allows players to experience the excitement of the game through the internet.",
+        githubrepo: "https://github.com/KomilJuraev/black-jack-app/tree/main",
+        websiteUrl: "https://komiljuraev.github.io/black-jack-app/"
     }
+
 ];
 
 export default projects;
