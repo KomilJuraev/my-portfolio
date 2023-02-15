@@ -30,8 +30,15 @@ const projects = [
         description: "A blackjack app is a digital version of the popular casino card game that allows players to experience the excitement of the game through the internet.",
         githubrepo: "https://github.com/KomilJuraev/black-jack-app/tree/main",
         websiteUrl: "https://komiljuraev.github.io/black-jack-app/"
+    },
+    {
+        id: 5,
+        projectTitle: "Chrome Extension",
+        projectImg: "./images/chromeExt.png",
+        description: "Chrome extension that allows you to save important links for reviewing them later.",
+        githubrepo: "https://github.com/KomilJuraev/chrome-extension",
+        websiteUrl: "https://komiljuraev.github.io/chrome-extension/"
     }
-
 ];
 
 export default projects;
