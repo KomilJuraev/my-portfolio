@@ -45,7 +45,7 @@ const projects = [
         projectImg: "./images/Shopping-list-pic.png",
         description: "The shopping list app allows users to create multiple lists, add item prices, and calculate the total cost at the end. It also allows users to delete lists and go back to previous purchase history for easy tracking and organization.",
         githubrepo: "https://github.com/KomilJuraev/Shopping-List",
-        websiteUrl: "http://KomilJuraev.github.io/Shopping-List/"
+        websiteUrl: "https://komiljuraev.github.io/shopping-list-app/"
     }
 ];
 
