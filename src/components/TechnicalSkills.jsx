@@ -10,22 +10,28 @@ function TechincalSkills() {
                     <link href='https://css.gg/code-slash.css' rel='stylesheet'></link>
                     <ul className="skills-lst">
                         <li>HTML</li>
-                        <ProgressBar percentage={100} />
+                        <ProgressBar percentage={90} />
                         <li>CSS</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={90} />
                         <li>JavaScript</li>
-                        <ProgressBar percentage={80} />
+                        <ProgressBar percentage={90} />
                         <li>React</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={80} />
                     </ul>
                 </div>
                 <div className="back-end-skls">
                     <h4 className="skill-header">Back End Development</h4>
                     <ul className="skills-lst">
                         <li>JavaScript</li>
-                        <ProgressBar percentage={80} />
+                        <ProgressBar percentage={90} />
                         <li>Node.Js</li>
-                        <ProgressBar percentage={60} />
+                        <ProgressBar percentage={70} />
+                        <li>Express</li>
+                        <ProgressBar percentage={70} />
+                        <li>MongoDB</li>
+                        <ProgressBar percentage={70} />
+                        <li>Mongoose</li>
+                        <ProgressBar percentage={70} />
                         <li>Java</li>
                         <ProgressBar percentage={100} />
                     </ul>
@@ -44,7 +50,7 @@ function TechincalSkills() {
                         <li>JavaScript</li>
                         <ProgressBar percentage={80} />
                         <li>Karate</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={80} />
                         <li>RestAssured Api Testing</li>
                         <ProgressBar percentage={80} />
                         <li>SQL</li>
