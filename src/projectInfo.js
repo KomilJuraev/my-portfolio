@@ -54,6 +54,7 @@ const projects = [
         description: "This website helps user to document his/her daily activities. Using this app user can add new post and update or delete existing posts. "
         + "This app is build using Node.js, express, mongoDB, mongoose and react. "
         + "Wait for a bit after opening the app for it to start.",
+        githubrepo: "https://github.com/KomilJuraev/Daily-Journal",
         websiteUrl: "https://mern-daily-journal-frontend.onrender.com/"
     },
 ];
