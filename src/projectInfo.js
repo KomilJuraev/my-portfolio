@@ -46,7 +46,16 @@ const projects = [
         description: "The shopping list app allows users to create multiple lists, add item prices, and calculate the total cost at the end. It also allows users to delete lists and go back to previous purchase history for easy tracking and organization.",
         githubrepo: "https://github.com/KomilJuraev/Shopping-List",
         websiteUrl: "https://komiljuraev.github.io/shopping-list-app/"
-    }
+    },
+    {
+        id: 7,
+        projectTitle: "Daily-Journal-APP",
+        projectImg: "./images/daily-journal-img.png",
+        description: "This website helps user to document his/her daily activities. Using this app user can add new post and update or delete existing posts. "
+        + "This app is build using Node.js, express, mongoDB, mongoose and react. "
+        + "Wait for a bit after opening the app for it to start.",
+        websiteUrl: "https://mern-daily-journal-frontend.onrender.com/"
+    },
 ];
 
 export default projects;
