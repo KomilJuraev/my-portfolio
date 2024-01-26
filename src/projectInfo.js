@@ -53,9 +53,20 @@ const projects = [
         projectImg: "./images/daily-journal-img.png",
         description: "This website helps user to document his/her daily activities. Using this app user can add new post and update or delete existing posts. "
         + "This app is build using Node.js, express, mongoDB, mongoose and react. "
-        + "Wait for a bit after opening the app for it to start.",
+        + "Wait for a bit after opening the app for it to start on the server.",
         githubrepo: "https://github.com/KomilJuraev/Daily-Journal",
         websiteUrl: "https://mern-daily-journal-frontend.onrender.com/"
+    },
+    {
+        id: 8,
+        projectTitle: "Book-Store-App",
+        projectImg: "./images/Book list screenshot.png",
+        description: "This is fullstack bookstore app. Stor owner can add new books, edit existing book, or delete ana update the status of the book."
+        + " Also user will be able to see more information about the book by clicking more info icon. It is fullstack app. Developed using"
+        + " Node.js, express, mongoDB, mongoose and react."
+        + "Wait for a bit after opening the app for it to start on the server.",
+        githubrepo: "https://github.com/KomilJuraev/Book_Store",
+        websiteUrl: "https://mern-book-store-frontend.onrender.com/books"
     },
 ];
 
