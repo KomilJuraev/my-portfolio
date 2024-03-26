@@ -68,6 +68,16 @@ const projects = [
         githubrepo: "https://github.com/KomilJuraev/Book_Store",
         websiteUrl: "https://mern-book-store-frontend.onrender.com/books"
     },
+    {
+        id: 9,
+        projectTitle: "Login-App",
+        projectImg: "./images/loginapp.png",
+        description: "This is fullstack login app. This app allows user to create new account using signup function and user will be able to login"
+        + " to the application using valid credentials. Also this app implements jws to create token to communicate between backend and front end"
+        + " and once the token is expired, user will be logged out automatically.",
+        githubrepo: "https://github.com/KomilJuraev/Login-App",
+        websiteUrl: "https://mern-login-frontend.onrender.com/"
+    },
 ];
 
 export default projects;
