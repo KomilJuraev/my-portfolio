@@ -73,7 +73,7 @@ const projects = [
         projectTitle: "Login-App",
         projectImg: "./images/loginapp.png",
         description: "This is fullstack login app. This app allows user to create new account using signup function and user will be able to login"
-        + " to the application using valid credentials. Also this app implements jwstto create token to communicate between backend and front end"
+        + " to the application using valid credentials. Also this app implements jwt to create token to communicate between backend and front end"
         + " and once the token is expired, user will be logged out automatically.",
         githubrepo: "https://github.com/KomilJuraev/Login-App",
         websiteUrl: "https://mern-login-frontend.onrender.com/"
