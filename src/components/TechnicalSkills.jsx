@@ -34,7 +34,7 @@ function TechincalSkills() {
                         <ProgressBar percentage={80} />
                         <li>Postgresql</li>
                         <ProgressBar percentage={80} />
-                        <li>Postgresql</li>
+                        <li>SQL</li>
                         <ProgressBar percentage={90} />
                         <li>Java</li>
                         <ProgressBar percentage={100} />
