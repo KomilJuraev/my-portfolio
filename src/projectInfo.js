@@ -78,6 +78,17 @@ const projects = [
         githubrepo: "https://github.com/KomilJuraev/Login-App",
         websiteUrl: "https://mern-login-frontend.onrender.com/"
     },
+    {
+        id: 10,
+        projectTitle: "TopSecret",
+        projectImg: "./images/topSecretProject.png",
+        description: "This is fullstack login app that helps user keep secrets. Once the use successfully register with the application and logs in, user will be able to "
+        + "add secrets and only this user will be able to see the secret everytime user logs into the application. Logic of the application is similar with login-app, "
+        + "which implements jwt to wait until token expires or user logs out to log out the user. One of the difference of this application from login-app is that "
+        + "I am using postGres database to store user data insteag of mongoDB.",
+        githubrepo: "https://github.com/KomilJuraev/TopSecret",
+        websiteUrl: "https://top-secret-fronend.onrender.com/"
+    },
 ];
 
 export default projects;
