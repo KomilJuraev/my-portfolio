@@ -25,13 +25,17 @@ function TechincalSkills() {
                         <li>JavaScript</li>
                         <ProgressBar percentage={90} />
                         <li>Node.Js</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={80} />
                         <li>Express</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={80} />
                         <li>MongoDB</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={80} />
                         <li>Mongoose</li>
-                        <ProgressBar percentage={70} />
+                        <ProgressBar percentage={80} />
+                        <li>Postgresql</li>
+                        <ProgressBar percentage={80} />
+                        <li>Postgresql</li>
+                        <ProgressBar percentage={90} />
                         <li>Java</li>
                         <ProgressBar percentage={100} />
                     </ul>
